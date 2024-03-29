@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">itmo-example</string>
+    <string name="start">Start</string>
+    <string name="counter_of_fragments">Counter of fragments</string>
+    <string name="item_a">A</string>
+    <string name="item_b">B</string>
+    <string name="item_c">C</string>
+    <string name="item_d">D</string>
+    <string name="item_e">E</string>
+    <string name="next_btn">Add new</string>
+    <string name="number_of_fragments">Number of fragments:</string>
 </resources>
