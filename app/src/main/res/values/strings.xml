@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">itmo-example</string>
+    <string name="app_name">TT</string>
+    <string name="enter">Вход</string>
+    <string name="login_description">Введите логин и пароль</string>
+    <string name="login_login">Логин</string>
+    <string name="login_password">Введите пароль</string>
+    <string name="login_submit">Войти</string>
+    <string name="field_is_required">Too short login</string>
+    <string name="min_login">Too short login (min 3 symbols)</string>
+    <string name="min_pass">Password must have 6 or more symbols</string>
+    <string name="wrong">wrong login or password</string>
+    <string name="soon">To be continued…</string>
 </resources>
